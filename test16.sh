@@ -1,0 +1,30 @@
+total 108
+drwxr-xr-x. 1 jaivikjariwala jaivikjariwala    14 Jan 13 04:40 Desktop
+drwxr-xr-x. 1 jaivikjariwala jaivikjariwala    14 Jan 20 04:42 Documents
+drwxr-xr-x. 1 jaivikjariwala jaivikjariwala   308 Feb  3 09:23 Downloads
+-rwxrwxrwx. 1 jaivikjariwala jaivikjariwala   174 Feb  3 09:55 evenorodd.sh
+-rw-r--r--. 1 jaivikjariwala jaivikjariwala     0 May  3 09:05 hello_world.sh
+-rwxrwxrwx. 1 jaivikjariwala jaivikjariwala   158 Feb  3 10:12 interest.sh
+-rwxrwxrwx. 1 jaivikjariwala jaivikjariwala   298 Feb  3 10:31 largestnum.sh
+drwxr-xr-x. 1 jaivikjariwala jaivikjariwala     0 Jan 12 22:38 Music
+-rwxrwxrwx. 1 jaivikjariwala jaivikjariwala    59 May  3 09:32 name.sh
+-rw-r--r--. 1 jaivikjariwala jaivikjariwala    60 Feb  3 09:51 name.sh.save
+drwxr-xr-x. 1 jaivikjariwala jaivikjariwala  1332 Jan 12 23:07 node_modules
+-rw-r--r--. 1 jaivikjariwala jaivikjariwala    49 Jan 20 04:46 one.txt
+drwxr-xr-x. 1 jaivikjariwala jaivikjariwala  2652 Feb  2 16:08 os lab 2
+-rw-r--r--. 1 jaivikjariwala jaivikjariwala    48 Jan 12 23:07 package.json
+-rw-r--r--. 1 jaivikjariwala jaivikjariwala 55981 Jan 12 23:07 package-lock.json
+drwxr-xr-x. 1 jaivikjariwala jaivikjariwala    22 Jan 19 22:23 Pictures
+-rwxrwxrwx. 1 jaivikjariwala jaivikjariwala   194 Feb  3 10:05 prime.sh
+drwxr-xr-x. 1 jaivikjariwala jaivikjariwala     0 Jan 12 22:38 Public
+-rw-------. 1 jaivikjariwala jaivikjariwala     1 May  3 09:41 script.save
+-rwxrwxrwx. 1 jaivikjariwala jaivikjariwala   128 Feb  3 10:24 sumn.sh
+-rwxrwxrwx. 1 jaivikjariwala jaivikjariwala   245 Feb  3 10:00 tables.sh
+drwxr-xr-x. 1 jaivikjariwala jaivikjariwala     0 Jan 12 22:38 Templates
+-rwxr-xr-x. 1 jaivikjariwala jaivikjariwala     0 May  3 09:55 test16.sh
+-rw-r--r--. 1 jaivikjariwala jaivikjariwala     0 May  3 09:32 test16.sj
+drwxr-xr-x. 1 jaivikjariwala jaivikjariwala     0 May  3 09:24 test.sh
+drwxr-xr-x. 1 jaivikjariwala jaivikjariwala     0 Jan 12 22:38 Videos
+drwxr-xr-x. 1 jaivikjariwala jaivikjariwala    22 Jan 19 23:35 wolf1
+-rw-r--r--. 1 jaivikjariwala jaivikjariwala    29 Jan 19 22:39 xyz.txt
+-rw-r--r--. 1 jaivikjariwala jaivikjariwala   193 Jan 20 05:08 xyz.zip
